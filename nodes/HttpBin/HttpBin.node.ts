@@ -1,3 +1,4 @@
+/* eslint-disable n8n-nodes-base/node-class-description-non-core-color-present */
 import { INodeType, INodeTypeDescription } from 'n8n-workflow';
 import { httpVerbFields, httpVerbOperations } from './HttpVerbDescription';
 
